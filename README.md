@@ -28,3 +28,4 @@
 - [X / Twitter](https://x.com/SergueiV)
 - [Instagram](https://www.instagram.com/powersurge01)
 - [LinkedIn](https://www.linkedin.com/in/sergueivinnitskii/)
+- [GitHub](https://github.com/powersurge01)
