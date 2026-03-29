@@ -6,7 +6,7 @@
 
 ## Projects
 
-- 💧 **Water Damage Restoration Copilot**  
+- 💧 **Water Damage Restoration Agent**  
   Built with Openclaw to turn field documents from restoration workers into justification notes for insurance adjusters.
 
 - 👶 **Nestie Baby Break**  
