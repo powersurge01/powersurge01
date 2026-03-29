@@ -10,7 +10,7 @@
   Built with Openclaw to turn field documents from restoration workers into justification notes for insurance adjusters.
 
 - 👶 **Nestie Baby Break**  
-  Published iOS app built with OpenAI's Realtime voice API.  
+  iOS app for parents, using OpenAI's Realtime voice API.  
   [App Store](https://apps.apple.com/us/app/nestie-baby-break/id6757925299)
 
 - 🦷 **ChatDent**  
