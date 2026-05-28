@@ -1,6 +1,6 @@
 # Hi, I'm Serguei 👋
 
-📍 Los Angeles | 📱 iOS engineer | 🤖 AI product builder
+📍 Alameda, CA | 📱 iOS engineer | 🤖 vibe coder
 
 > Building practical AI apps, shipping real products, and sharing what I learn.
 
