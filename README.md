@@ -7,7 +7,7 @@
 ## Projects
 
 - 💧 **Water Damage Restoration Agent**  
-  Built with Openclaw to turn field documents from restoration workers into justification notes for insurance adjusters.  
+  Multimodal evidence pipeline for water mitigation documentation, turning field notes and photos into validated facts and adjuster-facing narratives.  
   [GitHub repo](https://github.com/powersurge01/restoration-evidence-pipeline)
 
 - 👶 **Nestie Baby Break**  
