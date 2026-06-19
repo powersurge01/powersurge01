@@ -7,7 +7,8 @@
 ## Projects
 
 - 💧 **Water Damage Restoration Agent**  
-  Built with Openclaw to turn field documents from restoration workers into justification notes for insurance adjusters.
+  Built with Openclaw to turn field documents from restoration workers into justification notes for insurance adjusters.  
+  [GitHub repo](https://github.com/powersurge01/restoration-evidence-pipeline)
 
 - 👶 **Nestie Baby Break**  
   iOS app for parents, using OpenAI's Realtime voice API.  
