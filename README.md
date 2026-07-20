@@ -7,7 +7,7 @@
 ## Projects
 
 - 📧 **Shoot Email**  
-  LLM-first email service with CLI and MCP interfaces, powered by Cloudflare Workers and PostgreSQL.  
+  Gives ChatGPT a real email inbox—letting it send and receive messages, maintain conversation threads, and communicate with the outside world.  
   [GitHub repo](https://github.com/powersurge01/shoot-email)
 
 - 💧 **Water Damage Restoration Agent**  
