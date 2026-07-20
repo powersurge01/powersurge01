@@ -6,6 +6,10 @@
 
 ## Projects
 
+- 📧 **Shoot Email**  
+  LLM-first email service with CLI and MCP interfaces, powered by Cloudflare Workers and PostgreSQL.  
+  [GitHub repo](https://github.com/powersurge01/shoot-email)
+
 - 💧 **Water Damage Restoration Agent**  
   Multimodal evidence pipeline for water mitigation documentation, turning field notes and photos into validated facts and adjuster-facing narratives.  
   [GitHub repo](https://github.com/powersurge01/restoration-evidence-pipeline)
