@@ -6,9 +6,13 @@
 
 ## Projects
 
+- 📚 **Threadbook**  
+  Project memory for ChatGPT—keeps project state, linked conversations, decisions, and next steps together across chats.  
+  [Website](https://threadbook.yoyowza.com)
+
 - 📧 **Shoot Email**  
   Email infrastructure for AI agents—giving ChatGPT and other agents their own inbox, persistent conversations, and the ability to communicate with people.  
-  [GitHub repo](https://github.com/powersurge01/shoot-email)
+  [Website](https://shoot-email.yoyowza.com) · [GitHub repo](https://github.com/powersurge01/shoot-email)
 
 - 💧 **Water Damage Restoration Agent**  
   AI workflow for restoration companies that turns technician notes and job-site photos into structured documentation and insurance-ready reports.  
